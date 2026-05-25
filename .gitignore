@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+
+# Arquivos compilados
+*.pyc
+
+# Modelo treinado
+models/*.pkl
+
+# Configuração VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
