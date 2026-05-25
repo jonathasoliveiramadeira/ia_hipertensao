@@ -167,7 +167,7 @@ Add Python to PATH
 # 2. Clonar ou Baixar o Projeto
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/jonathasoliveiramadeira/ia_hipertensao.git
 ```
 
 Ou baixe manualmente.
